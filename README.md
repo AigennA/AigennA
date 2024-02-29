@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AigennA
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C#, .Net Core, MVC, DataBase, Front-End, JS,JQery
+- 🌱 I’m currently learning C#, .Net Core, MVC, Back-End, Front-End, JS,JQery
 
 
 

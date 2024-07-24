@@ -1,6 +1,6 @@
 - 👋 Hi, this is Aigen
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C#, .Net Core, MVC, Back-End, Front-End, JS,JQery, Next.js, Tailwind, React, TypeScript, Node, Prisma, React Native
+- 🌱 I’m currently learning C#, .Net Core, MVC, Back-End, Front-End, JS,JQery, Next.js, Tailwind, React, TypeScript, Node, Prisma, React Native, PostgreSql, UI/UX
 
 
 

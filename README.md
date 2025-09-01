@@ -1,27 +1,37 @@
-👋 Hi, I'm Aigen
+👋 Hi, I'm A
 
 Welcome to my GitHub profile! I'm passionate about coding and continuously expanding my knowledge and skills in various programming languages and frameworks.
+Education
 
- 👀 Interests
+TUC Yrkeshögskola – Currently enrolled in the Systemutvecklare (.NET) program, focusing on full-stack development and practical projects.
 
-- **Coding**: I love exploring different coding languages and technologies.
-- **Full-Stack Development**: From front-end to back-end, I'm enthusiastic about learning and building comprehensive web applications.
-- **UI/UX Design**: Creating intuitive and user-friendly interfaces is one of my key interests.
+👀 Interests
+
+Coding: I love exploring different coding languages and technologies.
+
+Full-Stack Development: From front-end to back-end, I'm enthusiastic about learning and building comprehensive web applications.
+
+UI/UX Design: Creating intuitive and user-friendly interfaces is one of my key interests.
 
 🌱 Current Learning Path
 
 I'm currently diving deep into a variety of technologies, focusing on both front-end and back-end development. Here are the main areas I'm exploring:
 
- Languages & Frameworks
+Languages & Frameworks
 
-- **C#**
-- **.NET Core**
-- **MVC (Model-View-Controller) Architecture**
+C#
+
+.NET Core
+
+MVC (Model-View-Controller) Architecture
 
 Front-End Development
 
-- **JavaScript (JS)**
-- **jQuery**
+JavaScript (JS)
+
+jQuery
+
+
 - **Next.js**
 - **React**
 - **TypeScript**

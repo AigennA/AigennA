@@ -1,4 +1,4 @@
-👋 Hi, I'm A
+👋 Hi, this is Aygen
 
 Welcome to my GitHub profile! I'm passionate about coding and continuously expanding my knowledge and skills in various programming languages and frameworks.
 Education
@@ -26,11 +26,6 @@ C#
 MVC (Model-View-Controller) Architecture
 
 Front-End Development
-
-JavaScript (JS)
-
-jQuery
-
 
 - **Next.js**
 - **React**

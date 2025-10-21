@@ -17,41 +17,25 @@ UI/UX Design: Creating intuitive and user-friendly interfaces is one of my key i
 
 I'm currently diving deep into a variety of technologies, focusing on both front-end and back-end development. Here are the main areas I'm exploring:
 
-Languages & Frameworks
-
-C#
-
-.NET Core
-
-MVC (Model-View-Controller) Architecture
-
-Front-End Development
-
+C#, JS, CSS,HTML
 - **Next.js**
 - **React**
 - **TypeScript**
 - **Tailwind CSS**
 
- Back-End Development
-
-- **Node.js**
-- **Prisma**
-- **PostgreSQL**
-
  Mobile Development
-
 - **React Native**
 
 Design & User Experience
-
 - **UI/UX Design Principles**
+- AI projects 
 
 
 🚀 Projects
 
-I'm actively working on several projects that encompass the technologies mentioned above. Stay tuned for updates and new repositories!
+I'm actively working on several projects that encompass the technologies mentioned above. 
 
-Thank you for visiting my profile. Happy coding!
+Thank you for visiting my profile.
 
 
 <!---

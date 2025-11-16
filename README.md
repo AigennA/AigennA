@@ -1,42 +1,66 @@
-👋 Hi, this is Aygen
 
-Welcome to my GitHub profile! I'm passionate about coding and continuously expanding my knowledge and skills in various programming languages and frameworks.
-Education
 
-TUC Yrkeshögskola – Currently enrolled in the Systemutvecklare (.NET) program, focusing on full-stack development and practical projects.
+👋 Hi, I’m Aygen
+
+Welcome to my GitHub profile! I’m currently learning software development and exploring different technologies step by step. I’m not a long-time developer, but I’m motivated, curious, and always improving my skills.
+
+🎓 Education
+
+TUC Yrkeshögskola – Studying Systemutvecklare (.NET) with a focus on practical, hands-on full-stack development.
 
 👀 Interests
 
-Coding: I love exploring different coding languages and technologies.
+Coding & Problem Solving
 
-Full-Stack Development: From front-end to back-end, I'm enthusiastic about learning and building comprehensive web applications.
+Frontend & Backend Development
 
-UI/UX Design: Creating intuitive and user-friendly interfaces is one of my key interests.
+UI/UX and clean, user-friendly design
 
-🌱 Current Learning Path
+Mobile App Development
 
-I'm currently diving deep into a variety of technologies, focusing on both front-end and back-end development. Here are the main areas I'm exploring:
+Exploring AI tools and concepts
 
-C#, JS, CSS,HTML
-- **Next.js**
-- **React**
-- **TypeScript**
-- **Tailwind CSS**
+🌱 Currently Learning
+Programming Basics
 
- Mobile Development
-- **React Native**
+C#
 
-Design & User Experience
-- **UI/UX Design Principles**
-- AI projects 
+JavaScript
 
+HTML & CSS
+
+Frontend
+
+React
+
+Next.js
+
+TypeScript
+
+Tailwind CSS
+
+Mobile
+
+React Native
+
+Design & UX
+
+UI/UX fundamentals
+
+AI
+
+Small AI projects & experiments
 
 🚀 Projects
 
-I'm actively working on several projects that encompass the technologies mentioned above. 
+I’m currently building small projects as part of my learning process.
+I’m still in the early stages of my developer journey, but I’m excited to grow, try new things, and improve day by day.
+More projects will come as I continue learning!
 
-Thank you for visiting my profile.
+🙏 Thanks for visiting!
 
+Thanks for checking out my profile!
+Feel free to explore my repositories — they will expand as I learn more and build more.
 
 <!---
 AigennA/AigennA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

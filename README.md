@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Aygen</h1>
-<h3 align="center">Full-Stack Developer | .NET & React</h3>
+<h3 align="center">Systemutvecklare (.NET)</h3>
 
 <p align="center">
-Building modern web and mobile applications with clean UI and solid backend architecture.
+Passionate about building modern web and mobile applications with clean design and efficient code.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-Software developer focused on modern web and mobile application development.
+I’m a Systemutvecklare (.NET) focused on building modern digital solutions using both frontend and backend technologies.
 
-I work with technologies from both frontend and backend ecosystems, building responsive interfaces, scalable APIs, and user-friendly applications.
+My work includes developing web interfaces, working with application logic, and creating structured and maintainable code. I enjoy building practical applications and exploring new technologies.
 
-My interests include:
+Areas of interest:
 
 - Web Application Development
-- Mobile App Development
-- UI/UX Design
-- AI Tools and Experiments
-- Building practical and useful software
+- Mobile Application Development
+- UI / UX Design
+- Modern JavaScript Frameworks
+- AI tools and experiments
 
 ---
 
@@ -28,13 +28,13 @@ My interests include:
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cs,js,html,css,ts" />
+<img src="https://skillicons.dev/icons?i=cs,js,ts,html,css" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,dotnet" />
+<img src="https://skillicons.dev/icons?i=dotnet,react,nextjs,tailwind" />
 </p>
 
 ### 📱 Mobile
@@ -67,19 +67,19 @@ My interests include:
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
-Some of the projects in this profile include:
+This profile contains projects related to:
 
-- Web applications built with React / Next.js
-- Backend APIs with .NET
-- UI focused interfaces with Tailwind CSS
-- Mobile experiments using React Native
+- .NET development
+- Modern JavaScript frameworks
+- UI focused web applications
+- Mobile development experiments
 
 ---
 
 ## 🤝 Connect
 
-Feel free to explore my repositories and see the projects I’m working on.
+Feel free to explore the repositories and see the projects I’m working on.
 
-⭐ If you like a project, don't forget to star it.
+Thanks for visiting my GitHub profile!

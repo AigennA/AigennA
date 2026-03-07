@@ -1,68 +1,85 @@
+<h1 align="center">Hi 👋, I'm Aygen</h1>
+<h3 align="center">Full-Stack Developer | .NET & React</h3>
 
+<p align="center">
+Building modern web and mobile applications with clean UI and solid backend architecture.
+</p>
 
-👋 Hi, I’m Aygen
+---
 
-Welcome to my GitHub profile! I’m currently learning software development and exploring different technologies step by step. I’m not a long-time developer, but I’m motivated, curious, and always improving my skills.
+## 🚀 About Me
 
-🎓 Education
+Software developer focused on modern web and mobile application development.
 
-TUC Yrkeshögskola – Studying Systemutvecklare (.NET) with a focus on practical, hands-on full-stack development.
+I work with technologies from both frontend and backend ecosystems, building responsive interfaces, scalable APIs, and user-friendly applications.
 
-👀 Interests
+My interests include:
 
-Coding & Problem Solving
+- Web Application Development
+- Mobile App Development
+- UI/UX Design
+- AI Tools and Experiments
+- Building practical and useful software
 
-Frontend & Backend Development
+---
 
-UI/UX and clean, user-friendly design
+## 🧰 Tech Stack
 
-Mobile App Development
+### 💻 Languages
 
-Exploring AI tools and concepts
+<p>
+<img src="https://skillicons.dev/icons?i=cs,js,html,css,ts" />
+</p>
 
-🌱 Currently Learning
-Programming Basics
+### ⚙️ Frameworks & Libraries
 
-C#
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,dotnet" />
+</p>
 
-JavaScript
+### 📱 Mobile
 
-HTML & CSS
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+</p>
 
-Frontend
+### 🛠 Tools
 
-React
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
-Next.js
+---
 
-TypeScript
+## 📊 GitHub Stats
 
-Tailwind CSS
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
-Mobile
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-React Native
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true"/>
+</p>
 
-Design & UX
+---
 
-UI/UX fundamentals
+## 📂 Featured Projects
 
-AI
+Some of the projects in this profile include:
 
-Small AI projects & experiments
+- Web applications built with React / Next.js
+- Backend APIs with .NET
+- UI focused interfaces with Tailwind CSS
+- Mobile experiments using React Native
 
-🚀 Projects
+---
 
-I’m currently building small projects as part of my learning process.
-I’m still in the early stages of my developer journey, but I’m excited to grow, try new things, and improve day by day.
-More projects will come as I continue learning!
+## 🤝 Connect
 
-🙏 Thanks for visiting!
+Feel free to explore my repositories and see the projects I’m working on.
 
-Thanks for checking out my profile!
-Feel free to explore my repositories — they will expand as I learn more and build more.
-
-<!---
-AigennA/AigennA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⭐ If you like a project, don't forget to star it.

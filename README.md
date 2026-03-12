@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, from Aygen</h2>
-<h3 align="center">Systemutvecklare (.NET)</h3>
+<h2 align="center">Hello there👋 this is Aygen</h2>
+<h3 align="center">Systemutvecklare (.NET), Systemdeveloper</h3>
 
 <p align="center">
 Passionate about building modern web and mobile applications with clean design and efficient code.

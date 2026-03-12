@@ -1,5 +1,5 @@
 <h2 align="center">Hello there👋 this is Aygen</h2>
-<h3 align="center">Systemutvecklare (.NET), Systemdeveloper</h3>
+<h3 align="center">Systemutvecklare (.NET), System Developer</h3>
 
 <p align="center">
 Passionate about building modern web and mobile applications with clean design and efficient code.
@@ -9,7 +9,7 @@ Passionate about building modern web and mobile applications with clean design a
 
 ## 🚀 About Me
 
-I’m a Systemutvecklare (.NET) focused on building modern digital solutions using both frontend and backend technologies.
+I’m a System Developer student(.NET) focused on building modern digital solutions using both frontend and backend technologies.
 
 My work includes developing web interfaces, working with application logic, and creating structured and maintainable code. I enjoy building practical applications and exploring new technologies.
 

@@ -24,5 +24,3 @@
 - **UX and publishing tools:** my current course
 - **Testing:** next up in school
 - **AI-assisted development:** working with Claude Code
-
-📫 aygen.omur.mehmethan.syne25lin@edu.tucsweden.se

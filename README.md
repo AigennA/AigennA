@@ -72,6 +72,35 @@ What I've actually done with them:
 
 ---
 
+### Anthropic Academy certificates
+
+I've done 14 courses at Anthropic Academy. They cover how I work with Claude day to day, how to build on top of it, and how to use AI responsibly.
+
+**Claude and Claude Code**
+
+- **Claude 101:** the basics of working with Claude for study and everyday tasks
+- **Claude Code in Action:** using Claude Code in a real development workflow, from giving it context to planning and reviewing changes
+- **Introduction to subagents:** splitting bigger tasks across subagents in Claude Code
+- **Introduction to Claude Cowork:** letting Claude work through multi-step tasks with files and tools
+
+**Building with Claude**
+
+- **Claude with the Anthropic API:** calling Claude from code, writing prompts, tool use and working with my own data
+- **Claude with Amazon Bedrock:** the same ideas, running Claude through AWS
+- **Introduction to Model Context Protocol:** building MCP servers that give Claude access to tools and data
+- **Model Context Protocol: Advanced Topics:** going deeper into how MCP servers and clients talk to each other
+
+**AI Fluency**
+
+- **AI Fluency: Framework & Foundations:** the 4D framework for working with AI (delegation, description, discernment and diligence)
+- **AI Fluency: AI Capabilities & Limitations:** what AI is good at, where it goes wrong and how to check its output
+- **Teaching the AI Fluency Framework:** how to explain and teach the framework to others
+- **AI Fluency for educators:** using AI in teaching and learning
+- **AI Fluency for Small Businesses:** practical AI use in a small company (with PayPal)
+- **AI Fluency for nonprofits:** using AI in nonprofit organizations (with GivingTuesday)
+
+---
+
 ### Projects I'm proud of
 
 **Prenumerationskollen**
